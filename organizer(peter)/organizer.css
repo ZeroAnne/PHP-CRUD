@@ -1,0 +1,16 @@
+.btn-main-color{
+    background-color: #fd7e14;
+    color: #fff;
+}
+.btn-main-color:hover, .btn-main-color:focus{
+    background-color: rgb(253, 82, 20);
+    color: #fff;
+}
+.text-bg-company{
+    background-color: #588afe;
+    color: #fff;
+}
+.text-bg-main-color{
+    background-color: #fd7e14;
+    color: #fff;
+}
