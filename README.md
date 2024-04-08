@@ -15,3 +15,5 @@ Govent 是個大型整合的售票網站，售票內容從大型的演唱會到�
 後端 :
 1. 使用MySQL database 語法撰寫 CRUD
 2. 使用PHP連結資料庫/資料庫接取資訊 
+![image](https://github.com/ZeroAnne/PHP-CRUD/assets/152944709/a8770f72-8bd0-4be9-ad7a-822f37136261)
+![image](https://github.com/ZeroAnne/PHP-CRUD/assets/152944709/536e1499-1a95-4cb6-9304-0b7c078938d6)
